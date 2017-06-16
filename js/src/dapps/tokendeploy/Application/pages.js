@@ -25,7 +25,7 @@ const PAGES = [
     path: 'transfer',
     title: 'Transfer',
     byline: 'Send tokens associated with your accounts to other addresses',
-    description: 'Send any tokens created byt you or received from others. In addition have a bird\'s eye view of all events relating to token transfers, be it yours, created byt others, either local or globally available on the network.'
+    description: 'Send any tokens created by you or received from others. In addition have a bird\'s eye view of all events relating to token transfers, be it yours, created by others, either local or globally available on the network.'
   },
   {
     path: 'deploy',
